@@ -1,0 +1,15 @@
+﻿  소스.cpp
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(45): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(184): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(228): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(230): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(271): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\경운\documents\visual studio 2017\projects\홈런더비\홈런더비\소스.cpp(293): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  홈런더비.vcxproj -> C:\Users\경운\Documents\Visual Studio 2017\Projects\홈런더비\Debug\홈런더비.exe
+  홈런더비.vcxproj -> C:\Users\경운\Documents\Visual Studio 2017\Projects\홈런더비\Debug\홈런더비.pdb (Partial PDB)
