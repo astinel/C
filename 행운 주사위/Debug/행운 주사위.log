@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(행운 주사위.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  소스.cpp
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(199,14): warning C4244: '초기화 중': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(213,22): warning C4244: '인수': 'float'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(217,55): warning C4244: '인수': 'float'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(225,22): warning C4244: '인수': 'float'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(229,55): warning C4244: '인수': 'float'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(371,7): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\kang\source\repos\Program\행운 주사위\소스.cpp(402,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  행운 주사위.vcxproj -> C:\Users\kang\source\repos\Program\Debug\3. 행운 주사위.exe
